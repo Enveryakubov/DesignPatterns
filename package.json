@@ -1,0 +1,22 @@
+{
+  "name": "designpatterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "factory.jscle",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Enveryakubov/DesignPatterns.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Enveryakubov/DesignPatterns/issues"
+  },
+  "homepage": "https://github.com/Enveryakubov/DesignPatterns#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.4"
+  }
+}
